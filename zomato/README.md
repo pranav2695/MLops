@@ -1,7 +1,7 @@
-swiggy
+zomato
 ==============================
 
-making food deliver better
+top5Food
 
 Project Organization
 ------------
